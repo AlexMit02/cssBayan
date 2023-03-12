@@ -29,7 +29,7 @@ body {
   transform: translate(-50%, 0);
   background-color: #fefffa;
   max-width: 650px;
-  padding: 30px;
+  padding: 35px;
 }
 
 
@@ -84,7 +84,7 @@ ul li:last-of-type {
 ul li i {
   position: absolute;
   transform: translate(-6px, 0);
-  margin-top: 16px;
+  margin-top: 26px;
   right: 0;
 }
 ul li i:before, ul li i:after {
@@ -92,7 +92,7 @@ ul li i:before, ul li i:after {
   position: absolute;
   background-color: blue;
   width: 3px;
-  height: 9px;
+  height: 12px;
 }
 ul li i:before {
   transform: translate(-2px, 0) rotate(45deg);
